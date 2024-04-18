@@ -1,3 +1,4 @@
+package chap_01;
 // 상수 - 절대 변하지 못하는 값 
 
 public class _06_Constants {

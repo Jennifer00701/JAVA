@@ -1,3 +1,4 @@
+package chap_01;
 // 자료형 
 
 // psvm / main -> 자동 

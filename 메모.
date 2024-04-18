@@ -1,0 +1,31 @@
+브루 설치하는 방법
+https://snowdeer.github.io/mac-os/2021/12/22/macos-m1-install-homebrew/
+
+1. /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+2. echo 'export PATH=/opt/homebrew/bin:$PATH' >> ~/.zshrc
+3. source ~/.zshrc
+
+가상환경 만들어서 실행 
+python3 -m venv venv
+source venv/bin/activate
+python -m pip install django
+django-admin startproject manageproject
+
+python manage.py runserver
+
+# 브루 버전 확인
+brew --version
+
+# django 버전 확인
+django --version
+
+# 파이썬 설치
+brew install python3
+
+# django 설치 
+pip3 install django
+
+# brew - django 설치 
+brew install django 
+
+Django 프로젝트 생성:  
