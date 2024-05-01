@@ -32,6 +32,6 @@ public class _01_Str1 {
         // 해당 문자열로 끝이 나는지 true or false
         System.out.println(s.endsWith("."));
 
-        
+
     }
 }
