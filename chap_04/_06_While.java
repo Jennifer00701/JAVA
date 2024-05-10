@@ -2,6 +2,7 @@ package chap_04;
 // 반복문 While 
 
 // 명확한 횟수가 없을 경우 사용
+// 변수 +=3 을 넣어서 꼭 나갈 경로를 만들어줘야함 아니면 무한루프에 빠짐 
 
 public class _06_While {
     public static void main(String[] args) {
